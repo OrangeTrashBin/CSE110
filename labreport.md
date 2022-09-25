@@ -8,8 +8,8 @@ Nothing needed to be written here
 
 ### Git Command Line
 
-![Untitled](Lab%200-1%209fd9aa7b4489407bb1935dd7512f95ed/Untitled.png)
+![Untitled](screenshots/Untitled.png)
 
 ### VSCODE Version Control
 
-![Untitled](Lab%200-1%209fd9aa7b4489407bb1935dd7512f95ed/Untitled%201.png)
+![Untitled](screenshots/Untitled%201.png)
